@@ -9,3 +9,4 @@ npm install # node version 7x
 ```
 npm start
 ```
+check localhost:8089 in browser
